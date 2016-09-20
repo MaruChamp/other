@@ -4,7 +4,11 @@ Let's compare different kinds of text analysis.
 
 Using Part 2 and Part 3 of Blevin's Martha Ballard Diary blog posts, do the following:
 
-1. Write 2-3 sentences outling his method(s). 
+1. Write 2-3 sentences outling his method(s).
+
+* First, in order to clean up the data, Belvin made all casing uniform "to distill words into a basic unit"
+* Then, tracked whether or not birth appeared in the first column of Ballard's data and filtered further from there to discover births per year recorded in the diary
+
 
 2. Create a list of pros/possibiliites and cons/ limitations of the method(s) used. 
 
